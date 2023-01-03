@@ -1,3 +1,7 @@
+#### About Me:
+
+Currently in the first year of master's degree in Informatics and Computing Engineering at Faculty of Engineering of the University of Porto. Enthusiastic for low-level programming, embedded systems and software engineering. In his leisure time, he has passion for playing piano or guitar. 🖥️ 🎸
+
 #### My Stats:
 
 <p align="center">
