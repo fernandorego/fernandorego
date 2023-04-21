@@ -12,3 +12,5 @@
 </p>
 
 #### My Personal Website: [fernandorego.github.io](https://fernandorego.github.io/)
+
+#### My CV: [CV](https://fernandorego.github.io/cv/myCV.pdf)
