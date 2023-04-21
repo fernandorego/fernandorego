@@ -11,6 +11,6 @@
  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandorego&layout=compact&theme=onedark&langs_count=6&count_private=true&exclude_repo=feup-aeda,feup-cal&hide=html,blade,makefile&hide_border=true">
 </p>
 
-#### My Personal Website: [fernandorego.github.io](https://fernandorego.github.io/)
+#### My Personal Website: [fernandorego.github.io](https://fernandorego.github.io/) :rocket:
 
-#### My CV: [CV](https://fernandorego.github.io/cv/myCV.pdf)
+#### My Curriculum Vitae: [CV](https://fernandorego.github.io/cv/myCV.pdf) :rocket:
